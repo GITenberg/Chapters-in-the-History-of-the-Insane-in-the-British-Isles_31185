@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35048
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Hack_Tuke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31185#Chapters-in-the-History-of-the-Insane-in-the-British-Isles
 gutenberg_issued: '2010-02-05'
 gutenberg_type: Text
 identifiers:
